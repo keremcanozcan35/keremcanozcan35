@@ -4,7 +4,7 @@
 <br></br>
 
 <div align="center">- 🔭 I’m currently working at Patika Global Technology</div>
-<div  align="center">- 🌱 I’m currently learning Spring Boot for backend Angular for the frontend side</div>
+<div  align="center">- 🌱 I’m currently learning Spring Boot for backend, Angular for the frontend side</div>
 <br></br>
 <div  align="center">Connect with me</div> 
 <div  align="center">

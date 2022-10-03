@@ -8,11 +8,11 @@
 <br></br>
 <div  align="center">Connect with me</div> 
 <div  align="center">
-<a href="https://www.linkedin.com/in/kerem-can-%C3%B6zcan-678711140/?originalSubdomain=tr" target="_blank">
+<a href="https://www.linkedin.com/in/kerem-can-%C3%B6zcan-678711140/?originalSubdomain=tr" target="_blank" rel="noopener noreferrer">
 <img src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" >
 </img>
 </a>
-<a href="https://www.instagram.com/keremcanozcan/" target="_blank">
+<a href="https://www.instagram.com/keremcanozcan/" target="_blank" rel="noopener noreferrer">
 <img src="https://camo.githubusercontent.com/eff3e7484b1754de8279027247ccec9c3deaeb76b4c4946c5d634a8579c2c1ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465"></img>
 </a>
 </div>
